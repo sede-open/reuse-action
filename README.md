@@ -76,4 +76,4 @@ In the same fashion, it is possible to add optional arguments like `--include-su
 
 This action itself is REUSE compliant, so copyright and licensing information is stored in every file. As of March 2020, all files are licensed under GPL-3.0-or-later.
 
-Using the [REUSE helper tool](https://github.com/fsfe/reuse-tool), you can run `reuse spdx` to get a full bill of materials...
+Using the [REUSE helper tool](https://github.com/fsfe/reuse-tool), you can run `reuse spdx` to get a full bill of materials.
